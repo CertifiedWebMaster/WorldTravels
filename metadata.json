@@ -1,0 +1,6 @@
+{
+  "name": "Where I Have Been",
+  "description": "Track and modify cities you have visited",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
